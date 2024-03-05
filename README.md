@@ -1,5 +1,5 @@
 # Typescript-Learning
-This repo is for learning TypeScript, a typed superset of JavaScript.
+This repo is for learning basics of TypeScript, a typed superset of JavaScript.
 
 ## Getting Started
 1. Install Node.js and npm from https://nodejs.org/
